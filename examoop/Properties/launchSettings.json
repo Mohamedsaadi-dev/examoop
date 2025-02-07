@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "examoop": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
